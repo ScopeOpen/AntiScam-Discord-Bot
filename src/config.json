@@ -1,0 +1,11 @@
+{
+  "Identity": {
+    "token": "BotToken"
+  },
+  "Config": {
+    "DeleteMessage": true,
+    "KickUser": false,
+    "CheckPhrases": true,
+    "logChannel": "ChannelID"
+  }
+}
